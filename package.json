@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "bower": "*"
+    "bower": "*",
+    "gulp": "*",
+    "gulp-concat": "*"
   },
   "scripts": {
     "postinstall": "bower install"
