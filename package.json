@@ -2,7 +2,8 @@
   "dependencies": {
     "bower": "*",
     "gulp": "*",
-    "gulp-concat": "*"
+    "gulp-concat": "*",
+    "gulp-ember-handlebars": "*"
   },
   "scripts": {
     "postinstall": "bower install"
