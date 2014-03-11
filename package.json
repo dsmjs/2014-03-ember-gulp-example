@@ -2,6 +2,9 @@
   "dependencies": {
     "bower": "*",
     "gulp": "*",
+    "gulp-karma": "*",
+    "karma": "*",
+    "karma-qunit": "*",
     "gulp-concat": "*",
     "gulp-ember-handlebars": "*"
   },

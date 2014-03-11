@@ -3,7 +3,7 @@ module.exports = function(karma) {
         basePath: 'js',
 
         files: [
-          "lib/deps.min.js",
+          "dist/app.min.js",
           "tests/*.js"
         ],
 
